@@ -1,0 +1,56 @@
+[
+    {
+        "Plan.": "1",
+        "Name": "Bronze Level",
+        "BONUS DIRECT, INDIRECT(4.LEVELS)": "25%",
+        "MEMBERS LIMIT": 10,
+        "NVESTMENT": "2$",
+        "JOINING AND REGISTRATION": "1$",
+        "TOTAL PRICE": "3$"
+    },
+    {
+        "Plan.": "2",
+        "Name": "Silver Level",
+        "BONUS DIRECT, INDIRECT(4.LEVELS)": "25%",
+        "MEMBERS LIMIT": 10,
+        "NVESTMENT": "4$",
+        "JOINING AND REGISTRATION": "2$",
+        "TOTAL PRICE": "6$"
+    },
+    {
+        "Plan.": "3",
+        "Name": "Gold Level",
+        "BONUS DIRECT, INDIRECT(4.LEVELS)": "25%",
+        "MEMBERS LIMIT": 10,
+        "NVESTMENT": "8$",
+        "JOINING AND REGISTRATION": "4$",
+        "TOTAL PRICE": "12$"
+    },
+    {
+        "Plan.": "4",
+        "Name": "Platinum Level",
+        "BONUS DIRECT, INDIRECT(4.LEVELS)": "25%",
+        "MEMBERS LIMIT": 10,
+        "NVESTMENT": "20$",
+        "JOINING AND REGISTRATION": "10$",
+        "TOTAL PRICE": "30$"
+    },
+    {
+        "Plan.": "5",
+        "Name": "Diamond Level",
+        "BONUS DIRECT, INDIRECT(4.LEVELS)": "25%",
+        "MEMBERS LIMIT": 10,
+        "NVESTMENT": "40$",
+        "JOINING AND REGISTRATION": "20$",
+        "TOTAL PRICE": "60$"
+    },
+    {
+        "Plan.": "6",
+        "Name": "Star Diamond Level ",
+        "BONUS DIRECT, INDIRECT(4.LEVELS)": "25%",
+        "MEMBERS LIMIT": 10,
+        "NVESTMENT": "80$",
+        "JOINING AND REGISTRATION": "40$",
+        "TOTAL PRICE": "120$"
+    }
+]
