@@ -1,6 +1,6 @@
 {
-    "name": "ab_earning",
-    "short_name": "ab_earning",
+    "name": "ab_online_earning",
+    "short_name": "ab_online_earning",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
